@@ -1,5 +1,5 @@
 {
-  "name": SOUIY - INCO Auto Bot",
+  "name":"SOUIY - INCO Auto Bot",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
